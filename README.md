@@ -79,14 +79,16 @@ A Python chatbot capable of handling greetings, date/time queries, jokes, motiva
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asthabisht299&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asthabisht299&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <a href="https://github.com/Asthabisht299">
+    <img src="https://img.shields.io/github/followers/Asthabisht299?style=for-the-badge&logo=github&label=Followers"/>
+  </a>
+  <a href="https://github.com/Asthabisht299?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Asthabisht299?style=for-the-badge&logo=github&label=Total%20Stars"/>
+  </a>
 </p>
-
----
 
 ## 🌱 Currently Learning
 
