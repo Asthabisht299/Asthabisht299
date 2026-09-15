@@ -90,6 +90,18 @@ A Python chatbot capable of handling greetings, date/time queries, jokes, motiva
   </a>
 </p>
 
+## 🧩 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/Astha_299/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Practicing Data Structures & Algorithms and improving problem-solving skills.</i>
+</p>
+
 ## 🌱 Currently Learning
 
 ```text
