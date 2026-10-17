@@ -102,11 +102,70 @@ A farmer-focused procurement platform designed to connect farmers with procureme
 - Built responsive layouts using Flexbox and CSS Grid.
 - Learned mobile-first design and cross-browser development practices.
 
-**Certifications**
-- Web Development — Agratas Academy
-- Artificial Intelligence — CodeSoft
 
----
+## 🎀 Certificates & Little Wins
+
+<p align="center">
+  <i>A little collection of things I've learned, built, and grown through. 🌷</i>
+</p>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 💻 Web Development
+
+<a href="certificates/agratas-web-development.pdf">
+<img src="certificates/agratas-web-development.png"
+     width="100%"
+     alt="Agratas Academy Web Development Certificate"/>
+</a>
+
+**Agratas Academy** 🌸
+
+<sub>August – October 2024</sub>
+
+<br/>
+
+<a href="certificates/agratas-web-development.pdf">
+<img src="https://img.shields.io/badge/♡_View_Certificate-Lavender-B19CD9?style=for-the-badge"
+     alt="View Web Development Certificate"/>
+</a>
+
+</td>
+<td align="center" width="50%">
+
+### 🤖 Artificial Intelligence
+
+<a href="certificates/codsoft-ai.pdf">
+<img src="certificates/codsoft-ai.png"
+     width="100%"
+     alt="CodSoft Artificial Intelligence Certificate"/>
+</a>
+
+**CodSoft** ✨
+
+<sub>Artificial Intelligence Internship</sub>
+
+<br/>
+
+<a href="certificates/codsoft-ai.pdf">
+<img src="https://img.shields.io/badge/♡_View_Certificate-Blush-E8A0BF?style=for-the-badge"
+     alt="View AI Certificate"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+*୨୧ Every certificate is a reminder that progress happens one step at a time. ♡*
+
+</div>
+
 
 ## 📊 GitHub Corner
 
