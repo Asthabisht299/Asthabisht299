@@ -1,165 +1,176 @@
-# Hi, I'm Astha Bisht 👋
+# ✨ Hey there, I'm Astha Bisht! 🌷
 
-### B.Tech CSE Student | Full-Stack Developer 
+<div align="center">
 
-I’m a Computer Science Engineering student passionate about **building useful software, exploring AI/ML, and solving real-world problems through technology.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B19CD9,50:E8A0BF,100:C8B6E2&height=220&section=header&text=Astha%20Bisht&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20ideas%20into%20digital%20experiences%20%E2%9C%A8&descAlignY=55&descSize=17" width="100%" alt="Astha Bisht profile banner"/>
 
-Currently, I’m strengthening my skills in **JavaScript, React, Python, Machine Learning, and Data Structures & Algorithms** while building practical projects.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=B19CD9&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer+in+Progress+%F0%9F%92%BB;Frontend+%7C+Backend+Fundamentals+%7C+Databases;Turning+Coffee+%E2%98%95+and+Ideas+into+Code;Learning%2C+Building%2C+and+Growing+Every+Day+%F0%9F%8C%B7" alt="Animated developer introduction"/>
 
-> **Learn → Build → Improve → Repeat. 🚀**
+<br/>
 
----
+<a href="https://github.com/Asthabisht299">
+  <img src="https://img.shields.io/badge/GitHub-Asthabisht299-B19CD9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
+<a href="https://www.linkedin.com/in/astha-bisht-s291105">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-E8A0BF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+</a>
+<a href="mailto:bishtaastha123@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say_Hello-C8B6E2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Astha"/>
+</a>
 
-## 👩‍💻 About Me
-
-* 🎓 B.Tech Computer Science Engineering Student
-* 💻 Currently focused on **Frontend & Full-Stack Development**
-* 🤖 Exploring **Artificial Intelligence & Machine Learning**
-* 🐍 Comfortable working with **Python**
-* ⚛️ Learning and building with **React.js**
-* 🧠 Improving **DSA & problem-solving**
-* 🔨 Interested in developing **real-world, problem-solving applications**
-* 🎯 Working towards becoming a **Full-Stack Developer**
-
----
-
-## 🧰 Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-**Development**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-
-**AI / Machine Learning**
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🌸 A Little About Me
 
-### 🤖 AI Symptom Checker
-
-A healthcare-focused AI chatbot designed to analyze user symptoms and provide possible disease predictions using machine learning and NLP techniques.
-
-`Python` `NLP` `Scikit-learn` `Pandas` `Streamlit`
-
----
-
-### ❤️ Heart Disease Prediction
-
-A machine learning application that predicts the likelihood of heart disease based on medical input features.
-
-`Python` `Scikit-learn` `Pandas` `NumPy`
-
----
-
-### 💬 AI Rule-Based Chatbot
-
-A Python chatbot capable of handling greetings, date/time queries, jokes, motivational responses, study tips and basic utilities.
-
-`Python` `AI` `Chatbot`
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <a href="https://github.com/Asthabisht299">
-    <img src="https://img.shields.io/github/followers/Asthabisht299?style=for-the-badge&logo=github&label=Followers"/>
-  </a>
-  <a href="https://github.com/Asthabisht299?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Asthabisht299?style=for-the-badge&logo=github&label=Total%20Stars"/>
-  </a>
-</p>
-
-## 🧩 LeetCode
-
-<p align="center">
-  <a href="https://leetcode.com/u/Astha_299/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>Practicing Data Structures & Algorithms and improving problem-solving skills.</i>
-</p>
-
-## 🌱 Currently Learning
-
-```text
-React.js                 █████████░░░
-JavaScript               █████████░░░
-Python                   ██████████░░
-Machine Learning         ███████░░░░░
-Data Structures          ██████░░░░░░
-Full-Stack Development   ███████░░░░░
+```javascript
+const astha = {
+    education: "B.Tech CSE | Uttaranchal Institute of Technology",
+    graduation: 2027,
+    role: "Full-Stack Web Development Enthusiast",
+    strengths: ["Frontend Development", "Responsive UI", "Component-Based Design"],
+    backend: ["REST API Fundamentals", "Database Integration", "Server-Side Basics"],
+    currentlyExploring: ["Full-Stack Applications", "Better UI/UX", "Problem Solving"],
+    mindset: "Build. Learn. Improve. Repeat. ✨"
+};
 ```
 
----
+I enjoy building responsive, user-friendly web experiences and turning ideas into practical applications. My main strength is frontend development, and I'm expanding my backend and database skills to build more complete, end-to-end applications.
 
-## 🎯 2026 Goals
-
-* Build and deploy meaningful real-world projects
-* Strengthen React and Full-Stack development
-* Improve Machine Learning fundamentals
-* Become stronger in DSA and problem solving
-* Contribute to open-source projects
-* Secure a strong software development internship
+I believe in writing cleaner code, learning through projects, and making technology useful for real people. 🌷
 
 ---
 
-## 🤝 Connect With Me
+## 🛠️ My Tech Universe
 
-<p align="left">
-  <a href="www.linkedin.com/in/astha-bisht-s291105">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:bishtaastha123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Asthabisht299">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=light" alt="HTML, CSS, JavaScript and React"/>
+</p>
+
+### ⚙️ Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,fastapi&theme=light" alt="Node.js, Express, MySQL and FastAPI"/>
+</p>
+
+### 💻 Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,git,github,vscode&theme=light" alt="Java, Python, Git, GitHub and VS Code"/>
 </p>
 
 ---
 
-<p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
-  <br/>
-  <i>Building today for a better tomorrow.</i>
-</p>
+## 🚀 Projects I've Built
 
+### 🌷 Personal Portfolio Website
+A responsive personal website showcasing my profile, skills, projects, and contact information.
 
-<!--
-**Asthabisht299/Asthabisht299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tech:** HTML • CSS • JavaScript
 
-Here are some ideas to get you started:
+### 📚 Learning Management System
+A React-based learning interface featuring course information, student progress, and reusable UI components.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech:** React • JavaScript ES6+ • CSS3
+
+### 🌾 KisanSetu
+A farmer-focused procurement platform designed to connect farmers with procurement centres and booking slots, with authentication and role-based features.
+
+**Tech:** React • Vite • Node.js • Express • MySQL
+
+*Explore my repositories for source code and additional projects.*
+
+<div align="center">
+
+<a href="https://github.com/Asthabisht299?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Projects-Browse_Repositories-B19CD9?style=for-the-badge&logo=github&logoColor=white" alt="Browse my repositories"/>
+</a>
+
+</div>
+
+---
+
+## 💼 Experience & Certifications
+
+**Web Development Intern — Agratas Academy**  
+*August 2024 – October 2024*
+
+- Practiced HTML, CSS, and JavaScript.
+- Built responsive layouts using Flexbox and CSS Grid.
+- Learned mobile-first design and cross-browser development practices.
+
+**Certifications**
+- Web Development — Agratas Academy
+- Artificial Intelligence — CodeSoft
+
+---
+
+## 📊 GitHub Corner
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Asthabisht299&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&title_color=B19CD9&icon_color=E8A0BF" alt="GitHub statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asthabisht299&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&title_color=B19CD9" alt="Most used programming languages"/>
+
+<img src="https://streak-stats.demolab.com?user=Asthabisht299&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🌱 What I'm Growing Into
+
+- Building more complete full-stack web applications.
+- Strengthening backend development and database integration.
+- Improving problem-solving and data structures.
+- Creating responsive, accessible, and intuitive user interfaces.
+- Collaborating on meaningful projects and learning from other developers.
+
+---
+
+## 🎀 Developer Lore
+
+```text
+╭────────────────────────────────────╮
+│  Current status: Always learning 🌱 │
+│  Favourite activity: Building 💻   │
+│  Superpower: Turning ideas into UI │
+│  Weakness: One more CSS adjustment │
+│  Mission: Create things that matter│
+╰────────────────────────────────────╯
+```
+
+*Somewhere between a good idea and a working application, you'll find me debugging. ☕*
+
+---
+
+## 💌 Get in Touch
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/astha-bisht-s291105">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-B19CD9?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+<a href="mailto:bishtaastha123@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say_Hello-E8A0BF?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/>
+</a>
+<a href="https://github.com/Asthabisht299">
+  <img src="https://img.shields.io/badge/GitHub-Follow-C8B6E2?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+</a>
+<a href="https://leetcode.com/u/Astha_299/">
+  <img src="https://img.shields.io/badge/LeetCode-Let's_Solve-F4C2C2?style=for-the-badge&logo=leetcode&logoColor=white" alt="Visit LeetCode"/>
+</a>
+
+<br/><br/>
+
+*♡ Open to collaborations, creative projects, and opportunities to build something meaningful.*
+
+### ✨ Thanks for stopping by! ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8B6E2,50:E8A0BF,100:B19CD9&height=120&section=footer" width="100%" alt="Pastel footer banner"/>
+
+</div>
