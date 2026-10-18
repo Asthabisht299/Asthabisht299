@@ -64,32 +64,102 @@ I believe in writing cleaner code, learning through projects, and making technol
 
 ---
 
+---
+
 ## 🚀 Projects I've Built
 
-### 🌷 Personal Portfolio Website
-A responsive personal website showcasing my profile, skills, projects, and contact information.
+<p align="center">
+  <i>୨୧ A little collection of ideas I've been turning into reality. ♡</i>
+</p>
 
-**Tech:** HTML • CSS • JavaScript
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 📚 Learning Management System
-A React-based learning interface featuring course information, student progress, and reusable UI components.
+<h3 align="center">📚 Learning Management System</h3>
 
-**Tech:** React • JavaScript ES6+ • CSS3
+<p align="center">
+  <img src="https://img.shields.io/badge/React-Frontend-B19CD9?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-E8A0BF?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-Styling-C8B6E2?style=flat-square&logo=css3&logoColor=white"/>
+</p>
 
-### 🌾 KisanSetu
-A farmer-focused procurement platform designed to connect farmers with procurement centres and booking slots, with authentication and role-based features.
+<p align="center">
+  A student-friendly learning platform designed to bring courses, learning progress, and educational resources together in one place.
+</p>
 
-**Tech:** React • Vite • Node.js • Express • MySQL
+**Highlights**
+- 📖 Course and learning interface
+- 📊 Student progress overview
+- 🎨 Responsive UI with reusable components
 
-*Explore my repositories for source code and additional projects.*
+<p align="center">
+  <a href="https://github.com/Asthabisht299/Nexora-LMS">
+    <img src="https://img.shields.io/badge/♡_View_Repository-B19CD9?style=for-the-badge&logo=github&logoColor=white" alt="View LMS repository"/>
+  </a>
+</p>
 
-<div align="center">
+</td>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Asthabisht299?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_My_Projects-Browse_Repositories-B19CD9?style=for-the-badge&logo=github&logoColor=white" alt="Browse my repositories"/>
-</a>
+<h3 align="center">🌷 Personal Portfolio</h3>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-Structure-E8A0BF?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-Design-C8B6E2?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-Interactions-B19CD9?style=flat-square&logo=javascript&logoColor=white"/>
+</p>
+
+<p align="center">
+  A personal website showcasing my developer journey, technical skills, projects, and ways to connect with me.
+</p>
+
+**Highlights**
+- ✨ Clean and responsive design
+- 💻 Skills and project showcase
+- 💌 Contact and social links
+
+<p align="center">
+  <a href="https://github.com/Asthabisht299?tab=repositories">
+    <img src="https://img.shields.io/badge/♡_Explore_Repositories-E8A0BF?style=for-the-badge&logo=github&logoColor=white" alt="Explore portfolio repositories"/>
+  </a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<h3 align="center">🌾 KisanSetu — Smart Farmer Platform</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-Frontend-B19CD9?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-Backend-E8A0BF?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-APIs-C8B6E2?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-Database-B19CD9?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+<p align="center">
+  A farmer-focused procurement platform concept designed to simplify appointment booking, procurement-centre coordination, and status tracking.
+</p>
+
+<p align="center">
+  🌱 Slot Booking &nbsp; • &nbsp; 📍 Centre Information &nbsp; • &nbsp; 📋 Status Tracking
+</p>
+
+<p align="center">
+  <a href="https://github.com/Asthabisht299?tab=repositories">
+    <img src="https://img.shields.io/badge/♡_Explore_Project_Repositories-C8B6E2?style=for-the-badge&logo=github&logoColor=white" alt="Explore KisanSetu repositories"/>
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <i>✧ Building, experimenting, and learning one project at a time. 🌸</i>
+</p>
 
 ---
 
