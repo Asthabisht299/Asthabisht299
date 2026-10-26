@@ -18,6 +18,12 @@
   <img src="https://img.shields.io/badge/Email-Say_Hello-C8B6E2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Astha"/>
 </a>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Asthabisht299&label=PROFILE%20VIEWS&color=B19CD9&style=for-the-badge"
+       alt="Astha Bisht profile views"/>
+</p>
+
+
 </div>
 
 ---
