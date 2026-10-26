@@ -148,7 +148,7 @@ I believe in writing cleaner code, learning through projects, and making technol
 </p>
 
 <p align="center">
-  <a href="https://github.com/Asthabisht299?tab=repositories">
+  <a href="https://github.com/Asthabisht299/KisanSetu">
     <img src="https://img.shields.io/badge/♡_Explore_Project_Repositories-C8B6E2?style=for-the-badge&logo=github&logoColor=white" alt="Explore KisanSetu repositories"/>
   </a>
 </p>
