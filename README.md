@@ -71,7 +71,6 @@ I believe in writing cleaner code, learning through projects, and making technol
 ---
 
 ---
-
 ## 🚀 Projects I've Built
 
 <p align="center">
@@ -80,6 +79,40 @@ I believe in writing cleaner code, learning through projects, and making technol
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+<h3 align="center">☕ Café Website — Full-Stack Application</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-Frontend-B19CD9?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-Build_Tool-E8A0BF?style=flat-square&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-Backend-C8B6E2?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-REST_API-B19CD9?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-Database-E8A0BF?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+<p align="center">
+  A full-stack café management and online ordering platform designed to make café operations smoother and improve the customer ordering experience.
+</p>
+
+**Highlights**
+
+- ☕ Customer ordering and shopping cart
+- 📱 QR-based dine-in ordering
+- 🎀 Admin dashboard and management
+- 📦 Product and category management
+- 🧾 Order and enquiry management
+- 🪑 Table management
+- 🔐 Authentication and image uploads
+- ⚡ REST API integration
+
+<p align="center">
+  <a href="https://github.com/Asthabisht299/cafe-website">
+    <img src="https://img.shields.io/badge/♡_Explore_Café_Project-B19CD9?style=for-the-badge&logo=github&logoColor=white" alt="Explore Café Website"/>
+  </a>
+</p>
+
+</td>
 <td width="50%" valign="top">
 
 <h3 align="center">📚 Learning Management System</h3>
@@ -95,6 +128,7 @@ I believe in writing cleaner code, learning through projects, and making technol
 </p>
 
 **Highlights**
+
 - 📖 Course and learning interface
 - 📊 Student progress overview
 - 🎨 Responsive UI with reusable components
@@ -106,6 +140,9 @@ I believe in writing cleaner code, learning through projects, and making technol
 </p>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 <h3 align="center">🌷 Personal Portfolio</h3>
@@ -121,6 +158,7 @@ I believe in writing cleaner code, learning through projects, and making technol
 </p>
 
 **Highlights**
+
 - ✨ Clean and responsive design
 - 💻 Skills and project showcase
 - 💌 Contact and social links
@@ -132,9 +170,7 @@ I believe in writing cleaner code, learning through projects, and making technol
 </p>
 
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 <h3 align="center">🌾 KisanSetu — Smart Farmer Platform</h3>
 
@@ -149,13 +185,16 @@ I believe in writing cleaner code, learning through projects, and making technol
   A farmer-focused procurement platform concept designed to simplify appointment booking, procurement-centre coordination, and status tracking.
 </p>
 
-<p align="center">
-  🌱 Slot Booking &nbsp; • &nbsp; 📍 Centre Information &nbsp; • &nbsp; 📋 Status Tracking
-</p>
+**Highlights**
+
+- 🌱 Procurement slot booking
+- 📍 Centre information
+- 📋 Procurement status tracking
+- ⏳ Queue and appointment management
 
 <p align="center">
   <a href="https://github.com/Asthabisht299/KisanSetu">
-    <img src="https://img.shields.io/badge/♡_Explore_Project_Repositories-C8B6E2?style=for-the-badge&logo=github&logoColor=white" alt="Explore KisanSetu repositories"/>
+    <img src="https://img.shields.io/badge/♡_Explore_KisanSetu-C8B6E2?style=for-the-badge&logo=github&logoColor=white" alt="Explore KisanSetu"/>
   </a>
 </p>
 
@@ -166,7 +205,6 @@ I believe in writing cleaner code, learning through projects, and making technol
 <p align="center">
   <i>✧ Building, experimenting, and learning one project at a time. 🌸</i>
 </p>
-
 ---
 
 ## 💼 Experience & Certifications
