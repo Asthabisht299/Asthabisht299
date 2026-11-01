@@ -107,8 +107,12 @@ I believe in writing cleaner code, learning through projects, and making technol
 - ⚡ REST API integration
 
 <p align="center">
+  <a href="https://cafe-website-six-theta.vercel.app">
+    <img src="https://img.shields.io/badge/♡_Live_Demo-E8A0BF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Café Website"/>
+  </a>
+  &nbsp;
   <a href="https://github.com/Asthabisht299/cafe-website">
-    <img src="https://img.shields.io/badge/♡_Explore_Café_Project-B19CD9?style=for-the-badge&logo=github&logoColor=white" alt="Explore Café Website"/>
+    <img src="https://img.shields.io/badge/♡_Source_Code-B19CD9?style=for-the-badge&logo=github&logoColor=white" alt="Café Website Source Code"/>
   </a>
 </p>
 
