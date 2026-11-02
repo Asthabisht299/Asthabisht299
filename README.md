@@ -149,6 +149,7 @@ I believe in writing cleaner code, learning through projects, and making technol
 <tr>
 <td width="50%" valign="top">
 
+
 <h3 align="center">🌷 Personal Portfolio</h3>
 
 <p align="center">
@@ -168,10 +169,14 @@ I believe in writing cleaner code, learning through projects, and making technol
 - 💌 Contact and social links
 
 <p align="center">
+  <a href="https://github.com/Asthabisht299/astha-portfolio">
+    <img src="https://img.shields.io/badge/♡_View_Source_Code-E8A0BF?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio Source Code"/>
+  </a>
   <a href="https://github.com/Asthabisht299?tab=repositories">
-    <img src="https://img.shields.io/badge/♡_Explore_Repositories-E8A0BF?style=for-the-badge&logo=github&logoColor=white" alt="Explore portfolio repositories"/>
+    <img src="https://img.shields.io/badge/♡_Explore_Repositories-C8B6E2?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
   </a>
 </p>
+
 
 </td>
 <td width="50%" valign="top">
