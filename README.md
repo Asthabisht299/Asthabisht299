@@ -182,11 +182,13 @@ I believe in writing cleaner code, learning through projects, and making technol
   <a href="https://github.com/Asthabisht299/astha-portfolio">
     <img src="https://img.shields.io/badge/♡_View_Source_Code-E8A0BF?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio Source Code"/>
   </a>
+  <a href="https://astha-portfolio-rho.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/♡_Live_Demo-E8A0BF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
   <a href="https://github.com/Asthabisht299?tab=repositories">
     <img src="https://img.shields.io/badge/♡_Explore_Repositories-C8B6E2?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
   </a>
 </p>
-
 
 </td>
 <td width="50%" valign="top">
