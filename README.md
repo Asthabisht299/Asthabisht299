@@ -119,27 +119,37 @@ I believe in writing cleaner code, learning through projects, and making technol
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">📚 Learning Management System</h3>
+<h3 align="center">📚 Nexora LMS – Learning Management System</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-Frontend-B19CD9?style=flat-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-ES6+-E8A0BF?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-Styling-C8B6E2?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-Backend-B19CD9?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-Database-E8A0BF?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
 
 <p align="center">
-  A student-friendly learning platform designed to bring courses, learning progress, and educational resources together in one place.
+  A modern Learning Management System designed to bring students and educators together through interactive courses, personalized learning experiences, and progress tracking.
 </p>
 
 **Highlights**
 
-- 📖 Course and learning interface
-- 📊 Student progress overview
-- 🎨 Responsive UI with reusable components
+- 📖 Course creation, management, and enrollment
+- 👩‍🏫 Dedicated student, educator, and admin dashboards
+- 📊 Student learning progress and analytics
+- 🏆 Course completion certificates
+- 💳 Razorpay payment integration
+- ⭐ Course reviews and wishlist functionality
+- 🔐 Secure authentication and role-based access
+- 🎨 Responsive and modern user interface
 
 <p align="center">
-  <a href="https://github.com/Asthabisht299/Nexora-LMS">
-    <img src="https://img.shields.io/badge/♡_View_Repository-B19CD9?style=for-the-badge&logo=github&logoColor=white" alt="View LMS repository"/>
+  <a href="https://nexora-lms-lemon.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-B19CD9?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Asthabisht299/Nexora-LMS" target="_blank">
+    <img src="https://img.shields.io/badge/♡_View_Repository-E8A0BF?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
   </a>
 </p>
 
