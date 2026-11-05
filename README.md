@@ -302,17 +302,41 @@ I believe in writing cleaner code, learning through projects, and making technol
 </div>
 
 
+
 ## 📊 GitHub Corner
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Asthabisht299&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&title_color=B19CD9&icon_color=E8A0BF" alt="GitHub statistics"/>
+  <p>
+    <i>A little snapshot of my coding journey and consistency. 🌷</i>
+  </p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asthabisht299&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&title_color=B19CD9" alt="Most used programming languages"/>
+  <a href="https://github.com/Asthabisht299">
+    <img
+      width="49%"
+      src="./profile/stats.svg"
+      alt="GitHub Statistics"
+    />
+  </a>
+  <a href="https://github.com/Asthabisht299">
+    <img
+      width="49%"
+      src="./profile/top-langs.svg"
+      alt="Most Used Programming Languages"
+    />
+  </a>
 
-<img src="https://streak-stats.demolab.com?user=Asthabisht299&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub contribution streak"/>
+  <br/><br/>
+
+  <a href="https://github.com/Asthabisht299?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/Explore_My_Repositories-B19CD9?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explore Repositories"
+    />
+  </a>
 
 </div>
+
 
 ---
 
