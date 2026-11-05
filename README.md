@@ -159,24 +159,29 @@ I believe in writing cleaner code, learning through projects, and making technol
 <tr>
 <td width="50%" valign="top">
 
-
 <h3 align="center">🌷 Personal Portfolio</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-Structure-E8A0BF?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-Design-C8B6E2?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-Interactions-B19CD9?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-16.4.3-E8A0BF?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-Strongly_Typed-C8B6E2?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-Styling-B19CD9?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Motion-Animations-E8A0BF?style=flat-square&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-Database-C8B6E2?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
 <p align="center">
-  A personal website showcasing my developer journey, technical skills, projects, and ways to connect with me.
+  A modern, responsive developer portfolio built to showcase my journey, technical skills, projects, experience, and certifications through a dynamic and interactive experience.
 </p>
 
 **Highlights**
 
-- ✨ Clean and responsive design
-- 💻 Skills and project showcase
-- 💌 Contact and social links
+- ✨ Modern UI with smooth animations and responsive design
+- ⚡ Built with Next.js, TypeScript, Tailwind CSS, and Motion
+- 🗄️ Database integration for dynamic portfolio content
+- 🔐 Admin authentication and dashboard for content management
+- 📂 Manage projects, skills, education, and experience dynamically
+- 🖼️ Image and certificate uploads with resume management
+- 💌 Contact section and professional social links
 
 <p align="center">
   <a href="https://github.com/Asthabisht299/astha-portfolio">
@@ -189,8 +194,9 @@ I believe in writing cleaner code, learning through projects, and making technol
     <img src="https://img.shields.io/badge/♡_Explore_Repositories-C8B6E2?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
   </a>
 </p>
-
 </td>
+
+
 <td width="50%" valign="top">
 
 <h3 align="center">🌾 KisanSetu — Smart Farmer Platform</h3>
